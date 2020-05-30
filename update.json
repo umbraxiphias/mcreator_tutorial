@@ -1,5 +1,10 @@
 {
-"1.15.2": {
+  "homepage": "https://umbraxiphias.github.io/mcreator_tutorial",
+  "1.15.2": {
     "0.0.0": "Inital dev version"
-    }
+  },
+  "promos": {
+    "1.15.2-latest": "0.0.0",
+    "1.15.2-recommended": "0.0.0"
+  }
 }
